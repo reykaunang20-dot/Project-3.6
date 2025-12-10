@@ -1,0 +1,251 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Rabu, 10 Desember 2025 02.23.13
+   Source : C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\
+     Dest : C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_C\IncrementalBackup\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /XO /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\
+	  *EXTRA File 		       0	incremental_log.txt
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_1\
+	    New File  		      20	config_1.ini100%  
+	    New File  		      22	database_1.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_1\SubFolder_A\
+	    New File  		      17	aplikasi_1_A.bat100%  
+	    New File  		      17	catatan_1_A.txt100%  
+	    New File  		      17	data_1_A.csv100%  
+	    New File  		      17	dokumen_1_A.pdf100%  
+	    New File  		      18	laporan_1_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_1\SubFolder_B\
+	    New File  		      10	file_b1_1.txt100%  
+	    New File  		      10	file_b2_1.csv100%  
+	    New File  		      10	file_b3_1.docx100%  
+	    New File  		      10	file_b4_1.py100%  
+	    New File  		      10	file_b5_1.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_1\SubFolder_C\
+	    New File  		      10	file_c1_1.txt100%  
+	    New File  		      10	file_c2_1.ini100%  
+	    New File  		      10	file_c3_1.pdf100%  
+	    New File  		      10	file_c4_1.xml100%  
+	    New File  		      10	file_c5_1.csv100%  
+	    New File  		      10	file_c6_1.py100%  
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_10\
+	    New File  		      20	config_10.ini100%  
+	    New File  		      22	database_10.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_10\SubFolder_A\
+	    New File  		      17	aplikasi_10_A.bat100%  
+	    New File  		      17	catatan_10_A.txt100%  
+	    New File  		      17	data_10_A.csv100%  
+	    New File  		      17	dokumen_10_A.pdf100%  
+	    New File  		      18	laporan_10_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_10\SubFolder_B\
+	    New File  		      10	file_b1_10.txt100%  
+	    New File  		      10	file_b2_10.csv100%  
+	    New File  		      10	file_b3_10.docx100%  
+	    New File  		      10	file_b4_10.py100%  
+	    New File  		      10	file_b5_10.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_10\SubFolder_C\
+	    New File  		      10	file_c1_10.txt100%  
+	    New File  		      10	file_c2_10.ini100%  
+	    New File  		      10	file_c3_10.pdf100%  
+	    New File  		      10	file_c4_10.xml100%  
+	    New File  		      10	file_c5_10.csv100%  
+	    New File  		      10	file_c6_10.py100%  
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_2\
+	    New File  		      20	config_2.ini100%  
+	    New File  		      22	database_2.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_2\SubFolder_A\
+	    New File  		      17	aplikasi_2_A.bat100%  
+	    New File  		      17	catatan_2_A.txt100%  
+	    New File  		      17	data_2_A.csv100%  
+	    New File  		      17	dokumen_2_A.pdf100%  
+	    New File  		      18	laporan_2_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_2\SubFolder_B\
+	    New File  		      10	file_b1_2.txt100%  
+	    New File  		      10	file_b2_2.csv100%  
+	    New File  		      10	file_b3_2.docx100%  
+	    New File  		      10	file_b4_2.py100%  
+	    New File  		      10	file_b5_2.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_2\SubFolder_C\
+	    New File  		      10	file_c1_2.txt100%  
+	    New File  		      10	file_c2_2.ini100%  
+	    New File  		      10	file_c3_2.pdf100%  
+	    New File  		      10	file_c4_2.xml100%  
+	    New File  		      10	file_c5_2.csv100%  
+	    New File  		      10	file_c6_2.py100%  
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_3\
+	    New File  		      20	config_3.ini100%  
+	    New File  		      22	database_3.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_3\SubFolder_A\
+	    New File  		      17	aplikasi_3_A.bat100%  
+	    New File  		      17	catatan_3_A.txt100%  
+	    New File  		      17	data_3_A.csv100%  
+	    New File  		      17	dokumen_3_A.pdf100%  
+	    New File  		      18	laporan_3_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_3\SubFolder_B\
+	    New File  		      10	file_b1_3.txt100%  
+	    New File  		      10	file_b2_3.csv100%  
+	    New File  		      10	file_b3_3.docx100%  
+	    New File  		      10	file_b4_3.py100%  
+	    New File  		      10	file_b5_3.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_3\SubFolder_C\
+	    New File  		      10	file_c1_3.txt100%  
+	    New File  		      10	file_c2_3.ini100%  
+	    New File  		      10	file_c3_3.pdf100%  
+	    New File  		      10	file_c4_3.xml100%  
+	    New File  		      10	file_c5_3.csv100%  
+	    New File  		      10	file_c6_3.py100%  
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_4\
+	    New File  		      20	config_4.ini100%  
+	    New File  		      22	database_4.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_4\SubFolder_A\
+	    New File  		      17	aplikasi_4_A.bat100%  
+	    New File  		      17	catatan_4_A.txt100%  
+	    New File  		      17	data_4_A.csv100%  
+	    New File  		      17	dokumen_4_A.pdf100%  
+	    New File  		      18	laporan_4_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_4\SubFolder_B\
+	    New File  		      10	file_b1_4.txt100%  
+	    New File  		      10	file_b2_4.csv100%  
+	    New File  		      10	file_b3_4.docx100%  
+	    New File  		      10	file_b4_4.py100%  
+	    New File  		      10	file_b5_4.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_4\SubFolder_C\
+	    New File  		      10	file_c1_4.txt100%  
+	    New File  		      10	file_c2_4.ini100%  
+	    New File  		      10	file_c3_4.pdf100%  
+	    New File  		      10	file_c4_4.xml100%  
+	    New File  		      10	file_c5_4.csv100%  
+	    New File  		      10	file_c6_4.py100%  
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_5\
+	    New File  		      20	config_5.ini100%  
+	    New File  		      22	database_5.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_5\SubFolder_A\
+	    New File  		      17	aplikasi_5_A.bat100%  
+	    New File  		      17	catatan_5_A.txt100%  
+	    New File  		      17	data_5_A.csv100%  
+	    New File  		      17	dokumen_5_A.pdf100%  
+	    New File  		      18	laporan_5_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_5\SubFolder_B\
+	    New File  		      10	file_b1_5.txt100%  
+	    New File  		      10	file_b2_5.csv100%  
+	    New File  		      10	file_b3_5.docx100%  
+	    New File  		      10	file_b4_5.py100%  
+	    New File  		      10	file_b5_5.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_5\SubFolder_C\
+	    New File  		      10	file_c1_5.txt100%  
+	    New File  		      10	file_c2_5.ini100%  
+	    New File  		      10	file_c3_5.pdf100%  
+	    New File  		      10	file_c4_5.xml100%  
+	    New File  		      10	file_c5_5.csv100%  
+	    New File  		      10	file_c6_5.py100%  
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_6\
+	    New File  		      20	config_6.ini100%  
+	    New File  		      22	database_6.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_6\SubFolder_A\
+	    New File  		      17	aplikasi_6_A.bat100%  
+	    New File  		      17	catatan_6_A.txt100%  
+	    New File  		      17	data_6_A.csv100%  
+	    New File  		      17	dokumen_6_A.pdf100%  
+	    New File  		      18	laporan_6_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_6\SubFolder_B\
+	    New File  		      10	file_b1_6.txt100%  
+	    New File  		      10	file_b2_6.csv100%  
+	    New File  		      10	file_b3_6.docx100%  
+	    New File  		      10	file_b4_6.py100%  
+	    New File  		      10	file_b5_6.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_6\SubFolder_C\
+	    New File  		      10	file_c1_6.txt100%  
+	    New File  		      10	file_c2_6.ini100%  
+	    New File  		      10	file_c3_6.pdf100%  
+	    New File  		      10	file_c4_6.xml100%  
+	    New File  		      10	file_c5_6.csv100%  
+	    New File  		      10	file_c6_6.py100%  
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_7\
+	    New File  		      20	config_7.ini100%  
+	    New File  		      22	database_7.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_7\SubFolder_A\
+	    New File  		      17	aplikasi_7_A.bat100%  
+	    New File  		      17	catatan_7_A.txt100%  
+	    New File  		      17	data_7_A.csv100%  
+	    New File  		      17	dokumen_7_A.pdf100%  
+	    New File  		      18	laporan_7_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_7\SubFolder_B\
+	    New File  		      10	file_b1_7.txt100%  
+	    New File  		      10	file_b2_7.csv100%  
+	    New File  		      10	file_b3_7.docx100%  
+	    New File  		      10	file_b4_7.py100%  
+	    New File  		      10	file_b5_7.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_7\SubFolder_C\
+	    New File  		      10	file_c1_7.txt100%  
+	    New File  		      10	file_c2_7.ini100%  
+	    New File  		      10	file_c3_7.pdf100%  
+	    New File  		      10	file_c4_7.xml100%  
+	    New File  		      10	file_c5_7.csv100%  
+	    New File  		      10	file_c6_7.py100%  
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_8\
+	    New File  		      20	config_8.ini100%  
+	    New File  		      22	database_8.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_8\SubFolder_A\
+	    New File  		      17	aplikasi_8_A.bat100%  
+	    New File  		      17	catatan_8_A.txt100%  
+	    New File  		      17	data_8_A.csv100%  
+	    New File  		      17	dokumen_8_A.pdf100%  
+	    New File  		      18	laporan_8_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_8\SubFolder_B\
+	    New File  		      10	file_b1_8.txt100%  
+	    New File  		      10	file_b2_8.csv100%  
+	    New File  		      10	file_b3_8.docx100%  
+	    New File  		      10	file_b4_8.py100%  
+	    New File  		      10	file_b5_8.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_8\SubFolder_C\
+	    New File  		      10	file_c1_8.txt100%  
+	    New File  		      10	file_c2_8.ini100%  
+	    New File  		      10	file_c3_8.pdf100%  
+	    New File  		      10	file_c4_8.xml100%  
+	    New File  		      10	file_c5_8.csv100%  
+	    New File  		      10	file_c6_8.py100%  
+	  New Dir          2	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_9\
+	    New File  		      20	config_9.ini100%  
+	    New File  		      22	database_9.db100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_9\SubFolder_A\
+	    New File  		      17	aplikasi_9_A.bat100%  
+	    New File  		      17	catatan_9_A.txt100%  
+	    New File  		      17	data_9_A.csv100%  
+	    New File  		      17	dokumen_9_A.pdf100%  
+	    New File  		      18	laporan_9_A.docx100%  
+	  New Dir          5	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_9\SubFolder_B\
+	    New File  		      10	file_b1_9.txt100%  
+	    New File  		      10	file_b2_9.csv100%  
+	    New File  		      10	file_b3_9.docx100%  
+	    New File  		      10	file_b4_9.py100%  
+	    New File  		      10	file_b5_9.jpg100%  
+	  New Dir          6	C:\Users\reyka\OneDrive\Desktop\SimulasiDrive_D\Folder_9\SubFolder_C\
+	    New File  		      10	file_c1_9.txt100%  
+	    New File  		      10	file_c2_9.ini100%  
+	    New File  		      10	file_c3_9.pdf100%  
+	    New File  		      10	file_c4_9.xml100%  
+	    New File  		      10	file_c5_9.csv100%  
+	    New File  		      10	file_c6_9.py100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        41        40         1         0         0         0
+   Files :       180       180         0         0         0         1
+   Bytes :     2.3 k     2.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              13.837 Bytes/sec.
+   Speed :               0,792 MegaBytes/min.
+   Ended : Rabu, 10 Desember 2025 02.23.13
+
